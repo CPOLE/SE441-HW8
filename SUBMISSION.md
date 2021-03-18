@@ -12,8 +12,11 @@ The first argument is the Alt-text for the image. The second argument is the pat
 # Docker [15 pts]
 - [5 pts] Your dockerfile. Please provide a link to this file rather than a screen capture.
 
-![dockerfile ("docker")](deliverables/Dockerfile - docker)
-![dockerfile ("both")](deliverables/Dockerfile - both)
+Dockerfile:
+https://github.com/CPOLE/SE441-HW8/blob/main/deliverables/Dockerfile%20-%20docker
+
+Updated Dockerfile:
+https://github.com/CPOLE/SE441-HW8/blob/main/deliverables/Dockerfile%20-%20both
 
 - [5 pts] Your running docker instance as shown by a ps command.
 
